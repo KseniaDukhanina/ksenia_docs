@@ -60,6 +60,8 @@ locale_dirs = ['locale/']   # Путь к папке с переводами
 gettext_compact = False     # Важно для структуры с множеством языков
 # gettext_uuid = True       # Может понадобиться для новых версий Sphinx
 
+# Поддерживаемые языки
+languages = ['ru', 'en'] 
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
