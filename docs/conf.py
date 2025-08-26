@@ -56,13 +56,24 @@ templates_path = ['_templates']
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'ru'
+# ЯЗЫКОВЫЕ НАСТРОЙКИ
+language = 'ru'  # Основной язык
 locale_dirs = ['locales/']  # Папка с переводами
-gettext_compact = False     # Важно для структуры с множеством языков
-# gettext_uuid = True       # Может понадобиться для новых версий Sphinx
+gettext_compact = False
+gettext_location = True
 
 # Поддерживаемые языки
 languages = ['ru', 'en'] 
+
+# Контекст для языкового переключателя
+html_context = {
+    'languages': languages,
+    'current_language': language,
+    'translations': {
+        'en': 'https://ksenia-docs.readthedocs.io/en/latest/',
+        'ru': 'https://ksenia-docs.readthedocs.io/ru/latest/',
+    }
+}
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
