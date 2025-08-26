@@ -43,7 +43,7 @@ extensions = [
  'sphinx_search.extension',
  'sphinx_copybutton',
  'sphinx_tabs.tabs',
- 'sphinx_rtd_theme'
+ 'sphinx_rtd_theme',
  'sphinx.ext.autodoc',
  'sphinx.ext.intersphinx',
 ]
