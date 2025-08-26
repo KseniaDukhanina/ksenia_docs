@@ -58,7 +58,7 @@ templates_path = ['_templates']
 # Usually you set "language" from the command line for these cases.
 # ЯЗЫКОВЫЕ НАСТРОЙКИ
 language = 'ru'  # Основной язык
-locale_dirs = ['locales/']  # Папка с переводами
+locale_dirs = ['locale/']  # Папка с переводами
 gettext_compact = False
 gettext_location = True
 
