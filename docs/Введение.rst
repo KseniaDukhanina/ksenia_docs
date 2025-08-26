@@ -1,0 +1,16 @@
+Знакомство с Citeck
+=====================
+
+.. _intro:
+
+В разделе описан интерфейс Citeck и работа с поставляемыми модулями системы.
+
+.. toctree::
+    :maxdepth: 2
+
+    introduction/corp_portal
+    introduction/datalists
+    introduction/functions
+
+
+

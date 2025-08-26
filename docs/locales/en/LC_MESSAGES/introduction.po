@@ -1,0 +1,1650 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Citeck
+# This file is distributed under the same license as the Citeck package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Citeck \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-26 17:40+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../introduction/corp_portal.rst:2
+msgid "Корпоративный портал"
+msgstr "Corporate Portal"
+
+#: ../../introduction/corp_portal.rst:7
+#: ../../introduction/functions/actions.rst:7
+#: ../../introduction/functions/delegation.rst:11
+#: ../../introduction/functions/doc_templates.rst:11
+#: ../../introduction/functions/work_calendar.rst:9
+msgid "Содержание"
+msgstr "Contents"
+
+#: ../../introduction/corp_portal.rst:9
+msgid ""
+"**Корпоративный портал** — раздел для сотрудников компании, который "
+"объединяет различные инструменты, информацию и сервисы в одном месте. Он "
+"используется для работы, коммуникации и управления бизнес-процессами."
+msgstr ""
+"**Corporate Portal** is a section for company employees that combines various tools, information, and services in one place. It is used for work, communication, and managing business processes."
+
+#: ../../introduction/corp_portal.rst:15
+msgid "Портал обеспечивает:"
+msgstr "The portal provides:"
+
+#: ../../introduction/corp_portal.rst:17
+msgid "Хранение документов, регламентов, баз знаний."
+msgstr "Storage of documents, regulations, knowledge bases."
+
+#: ../../introduction/corp_portal.rst:18
+msgid "Новости компании, анонсы."
+msgstr "Company news, announcements."
+
+#: ../../introduction/corp_portal.rst:19
+msgid "Автоматизацию рабочих процессов (отпуска, заявки, отчетность)."
+msgstr "Automation of work processes (leaves, requests, reporting)."
+
+#: ../../introduction/corp_portal.rst:21
+msgid ""
+"Главная страница содержит дашборд с приветственной информацией **(1)**, "
+":ref:`новостями<widget_news>` **(2)**, :ref:`днями "
+"рождения<widget_birthdays>` сотрудников **(3)**. Для enterprise версии "
+"Citeck будет доступен виджет :ref:`«Активности»<widget_activities>`."
+msgstr ""
+"The main page contains a dashboard with welcome information **(1)**, :ref:`news<widget_news>` **(2)**, employee :ref:`birthdays<widget_birthdays>` **(3)**. For the Citeck Enterprise version, the :ref:`«Activities»<widget_activities>` widget will be available."
+
+#: ../../introduction/corp_portal.rst:27
+msgid ""
+"В меню **(4)** доступны основные разделы корпоративного портала: "
+"**Полезное**, **Сервисы** и **Оргструктура**."
+msgstr ""
+"The main sections of the corporate portal are available in the menu **(4)**: **Useful**, **Services**, and **Org Structure**."
+
+#: ../../introduction/corp_portal.rst:29
+msgid ""
+"В приветственном виджете по клику на **Смотреть больше** открывается "
+":ref:`База знаний <wiki_corp>`"
+msgstr ""
+"In the welcome widget, clicking **View More** opens the :ref:`Knowledge Base <wiki_corp>`"
+
+#: ../../introduction/corp_portal.rst:32
+msgid "Полезное"
+msgstr "Useful"
+
+#: ../../introduction/corp_portal.rst:34
+msgid ""
+"В подразделах **Наши продукты**, **Наши ценности**, **Льготы**  "
+"представлена информация в виде :ref:`библиотек "
+"документов<document_library>` - с файлами можно ознакомиться, скачать:"
+msgstr ""
+"The subsections **Our Products**, **Our Values**, **Benefits** contain information in the form of :ref:`document libraries<document_library>` - files can be viewed and downloaded:"
+
+#: ../../introduction/corp_portal.rst:56
+msgid ""
+"В подразделе **Новости** информация представлена в виде списка превью "
+"новостей:"
+msgstr ""
+"In the **News** subsection, information is presented as a list of news previews:"
+
+#: ../../introduction/corp_portal.rst:62
+msgid "По клику на превью открывается карточка новости:"
+msgstr "Clicking on a preview opens the news card:"
+
+#: ../../introduction/corp_portal.rst:70
+msgid ""
+"В подразделе **База знаний** информация представлена в виде "
+":ref:`иерархии<widget_knowledge_base>`. При выборе раздела справа "
+"открывается сама :ref:`публикация<widget_publication>`."
+msgstr ""
+"In the **Knowledge Base** subsection, information is presented as a :ref:`hierarchy<widget_knowledge_base>`. When a section is selected, the :ref:`publication<widget_publication>` itself opens on the right."
+
+#: ../../introduction/corp_portal.rst:78
+msgid "Сервисы"
+msgstr "Services"
+
+#: ../../introduction/corp_portal.rst:80
+msgid "В разделе доступны самые популярные корпоративные бизнес-процессы:"
+msgstr "The most popular corporate business processes are available in this section:"
+
+#: ../../introduction/corp_portal.rst:82
+msgid ":ref:`Заявления на отпуск<ecos-vacation>`"
+msgstr ":ref:`Leave Requests<ecos-vacation>`"
+
+#: ../../introduction/corp_portal.rst:88
+msgid ":ref:`Заявки на пропуск<ecos-order-pass>`"
+msgstr ":ref:`Pass Requests<ecos-order-pass>`"
+
+#: ../../introduction/corp_portal.rst:95
+msgid "Оргструктура"
+msgstr "Org Structure"
+
+#: ../../introduction/corp_portal.rst:97
+msgid ""
+"В разделе представлена иерархия компании - подразделения, должности, "
+"сотрудников и их взаимосвязи. Форма оргструктуры разделена на две части и"
+" содержит:"
+msgstr ""
+"This section displays the company hierarchy - departments, positions, employees, and their interconnections. The org structure form is divided into two parts and contains:"
+
+#: ../../introduction/corp_portal.rst:99
+msgid "иерархическое дерево структуры с возможностью поиска;"
+msgstr "a hierarchical tree of the structure with search capability;"
+
+#: ../../introduction/corp_portal.rst:100
+msgid "дашборд с информацией о выбранной части структуры."
+msgstr "a dashboard with information about the selected part of the structure."
+
+#: ../../introduction/corp_portal.rst:107
+msgid "Добавление контента"
+msgstr "Adding Content"
+
+#: ../../introduction/corp_portal.rst:110
+msgid "Наполнение подразделов Наши продукты, Наши ценности, Льготы"
+msgstr "Populating the Our Products, Our Values, Benefits subsections"
+
+#: ../../introduction/corp_portal.rst:112
+msgid "Выбранные папки, файлы перетащите в область загрузки:"
+msgstr "Drag and drop selected folders and files into the upload area:"
+
+#: ../../introduction/corp_portal.rst:118
+msgid "или воспользуйтесь кнопкой **+**:"
+msgstr "or use the **+** button:"
+
+#: ../../introduction/corp_portal.rst:141
+msgid "Подробно о :ref:`библиотеке документов<document_library>`"
+msgstr "Details about the :ref:`document library<document_library>`"
+
+#: ../../introduction/corp_portal.rst:144
+msgid "Добавление новостей"
+msgstr "Adding News"
+
+#: ../../introduction/corp_portal.rst:146
+msgid "Перейдите в журнал **\"Новости\"**:"
+msgstr "Go to the **\"News\"** journal:"
+
+#: ../../introduction/corp_portal.rst:152
+msgid ""
+"Нажмите **+** и с помощью :ref:`редактора<wysiwyg_editor>` оформите текст"
+" новости и сохраните:"
+msgstr ""
+"Click **+** and use the :ref:`editor<wysiwyg_editor>` to format the news text and save:"
+
+#: ../../introduction/corp_portal.rst:159
+msgid "Добавление статей в базу знаний"
+msgstr "Adding Articles to the Knowledge Base"
+
+#: ../../introduction/corp_portal.rst:161
+msgid "Перейдите в журнал **\"База знаний\"**:"
+msgstr "Go to the **\"Knowledge Base\"** journal:"
+
+#: ../../introduction/corp_portal.rst:167
+msgid ""
+"Для добавления публикации или раздела 1-го уровня нажмите большой **+** "
+"**(1)**, с использованием :ref:`редактора<wysiwyg_editor>` создайте "
+"контент, сохраните. Для добавления публикации или подраздела  нажмите "
+"маленький **+** **(2)**. Количество создаваемых публикаций в каждом "
+"уровне не ограничено."
+msgstr ""
+"To add a publication or a 1st-level section, click the large **+** **(1)**, use the :ref:`editor<wysiwyg_editor>` to create content, and save. To add a publication or subsection, click the small **+** **(2)**. The number of publications created at each level is unlimited."
+
+#: ../../introduction/corp_portal.rst:173
+msgid "Добавленная публикация в структуре:"
+msgstr "Added publication in the structure:"
+
+#: ../../introduction/corp_portal.rst:180
+msgid "Корпоративный портал при первой установке платформы"
+msgstr "Corporate Portal upon first platform installation"
+
+#: ../../introduction/corp_portal.rst:182
+msgid ""
+"При первой установке Citeck из шаблона создается пустой корпоративный "
+"портал:"
+msgstr "When Citeck is first installed from a template, an empty corporate portal is created:"
+
+#: ../../introduction/datalists.rst:2
+msgid "Справочники"
+msgstr "Data Lists"
+
+#: ../../introduction/datalists.rst:6
+msgid ""
+"**Справочник** - тип для хранения наборов бизнес-данных, которые будут "
+"использоваться как статические данные для документов, не участвующие "
+"непосредственно в бизнес-процессах."
+msgstr ""
+"**Data List** - a type for storing sets of business data that will be used as static data for documents, not directly involved in business processes."
+
+#: ../../introduction/datalists.rst:8
+msgid ""
+"**Основные справочники** доступны в публичном :ref:`рабочем "
+"пространстве<workspaces>` **«Справочники»**:"
+msgstr ""
+"**Main Data Lists** are available in the public :ref:`workspace<workspaces>` **«Data Lists»**:"
+
+#: ../../introduction/datalists.rst:14
+msgid ""
+"Данные из этих справочников используются при создании большинства "
+"документов Системы:"
+msgstr ""
+"Data from these lists is used when creating most System documents:"
+
+#: ../../introduction/datalists.rst:16
+msgid "Контрагенты;"
+msgstr "Counterparties;"
+
+#: ../../introduction/datalists.rst:17
+msgid "Юридические лица;"
+msgstr "Legal Entities;"
+
+#: ../../introduction/datalists.rst:18
+msgid "Единицы измерения;"
+msgstr "Units of Measurement;"
+
+#: ../../introduction/datalists.rst:19
+msgid "Организационно-правовые формы;"
+msgstr "Legal Forms;"
+
+#: ../../introduction/datalists.rst:20
+msgid "Банковские счета;"
+msgstr "Bank Accounts;"
+
+#: ../../introduction/datalists.rst:21
+msgid "Валюты;"
+msgstr "Currencies;"
+
+#: ../../introduction/datalists.rst:22
+msgid "Курсы валют:"
+msgstr "Currency Rates:"
+
+#: ../../introduction/datalists.rst:24
+msgid "Внутренний;"
+msgstr "Internal;"
+
+#: ../../introduction/datalists.rst:25
+msgid "ЦБ."
+msgstr "Central Bank."
+
+#: ../../introduction/datalists.rst:29
+msgid ""
+"Так же для каждого модуля системы создаются отдельные справочники, "
+"доступные в рабочих пространствах этих модулей."
+msgstr ""
+"Separate data lists are also created for each system module, available in those modules' workspaces."
+
+#: ../../introduction/datalists.rst:33
+msgid ""
+"Создание записи справочника является типовой операцией для всех "
+"справочников. Для этого необходимо:"
+msgstr ""
+"Creating a data list record is a standard operation for all data lists. To do this, you need to:"
+
+#: ../../introduction/datalists.rst:35
+msgid "Выбрать справочник."
+msgstr "Select the data list."
+
+#: ../../introduction/datalists.rst:36
+msgid "Нажать **+**"
+msgstr "Click **+**"
+
+#: ../../introduction/datalists.rst:42
+msgid ""
+"В открывшейся форме заполнить необходимые поля (обязательные для "
+"заполнения поля отмечены **«*»** )."
+msgstr ""
+"In the opened form, fill in the required fields (mandatory fields are marked with **«*»**)."
+
+#: ../../introduction/datalists.rst:48
+msgid "Нажать кнопку **Применить**."
+msgstr "Click the **Apply** button."
+
+#: ../../introduction/datalists.rst:50
+msgid "Подробно о :ref:`создании справочников<dataset_sample>`."
+msgstr "Details about :ref:`creating data lists<dataset_sample>`."
+
+#: ../../introduction/datalists.rst:52
+msgid ""
+"Так же :ref:`рабочем пространстве<workspaces>` **«Справочники»** доступна"
+" :ref:`организационная структура<org_structure>`:"
+msgstr ""
+"The :ref:`organizational structure<org_structure>` is also available in the :ref:`workspace<workspaces>` **«Data Lists»**:"
+
+#: ../../introduction/functions.rst:2
+msgid "Описание отдельных функциональностей"
+msgstr "Description of Individual Functionalities"
+
+#: ../../introduction/functions/actions.rst:2
+msgid "Действия в карточках"
+msgstr "Actions in Cards"
+
+#: ../../introduction/functions/actions.rst:14
+msgid "Редактировать свойства"
+msgstr "Edit Properties"
+
+#: ../../introduction/functions/actions.rst:16
+msgid ""
+"Открывается карточка документа с возможностью внести изменения и "
+"сохранить:"
+msgstr ""
+"The document card opens with the ability to make changes and save:"
+
+#: ../../introduction/functions/actions.rst:23
+msgid "Редактировать документ"
+msgstr "Edit Document"
+
+#: ../../introduction/functions/actions.rst:27
+msgid ""
+"Для вложенных и сформированных по шаблону документов формата MS Office и "
+"OpenDocument доступно редактирование в OnlyOffice."
+msgstr ""
+"For attached and template-generated documents in MS Office and OpenDocument formats, editing in OnlyOffice is available."
+
+#: ../../introduction/functions/actions.rst:29
+msgid "См. :ref:`подробно<edit_only_office>`"
+msgstr "See :ref:`details<edit_only_office>`"
+
+#: ../../introduction/functions/actions.rst:32
+msgid "Печатать"
+msgstr "Print"
+
+#: ../../introduction/functions/actions.rst:36
+msgid "Поддерживаемые форматы файлов:"
+msgstr "Supported file formats:"
+
+#: ../../introduction/functions/actions.rst:38
+msgid "Microsoft Word - **.doc, DOCX**;"
+msgstr "Microsoft Word - **.doc, DOCX**;"
+
+#: ../../introduction/functions/actions.rst:39
+msgid "Microsoft Excel - **.xls, XLSX**;"
+msgstr "Microsoft Excel - **.xls, XLSX**;"
+
+#: ../../introduction/functions/actions.rst:40
+msgid "Документы в формате OpenDocument - **.ODT**;"
+msgstr "Documents in OpenDocument format - **.ODT**;"
+
+#: ../../introduction/functions/actions.rst:41
+msgid "Таблицы в формате OpenDocument - **.ODS**;"
+msgstr "Spreadsheets in OpenDocument format - **.ODS**;"
+
+#: ../../introduction/functions/actions.rst:42
+msgid "Adobe Portable Document Format - **.PDF**;"
+msgstr "Adobe Portable Document Format - **.PDF**;"
+
+#: ../../introduction/functions/actions.rst:43
+msgid "Текстовые - **.txt**"
+msgstr "Text - **.txt**"
+
+#: ../../introduction/functions/actions.rst:46
+msgid "Загрузить новую версию"
+msgstr "Upload New Version"
+
+#: ../../introduction/functions/actions.rst:50
+msgid "Добавление новой версии документа:"
+msgstr "Adding a new document version:"
+
+#: ../../introduction/functions/actions.rst:56
+msgid ""
+"Выберите **файл**, тип **изменений**, укажите **комментарий** при "
+"необходимости:"
+msgstr ""
+"Select a **file**, the type of **changes**, and specify a **comment** if necessary:"
+
+#: ../../introduction/functions/actions.rst:62
+msgid ""
+"Изменения версий фиксируются :ref:`виджете «Журнал "
+"версий»<widget_versions_journal>`"
+msgstr ""
+"Version changes are recorded in the :ref:`«Version Journal» widget<widget_versions_journal>`"
+
+#: ../../introduction/functions/actions.rst:69
+msgid "Создать поручение"
+msgstr "Create Assignment"
+
+#: ../../introduction/functions/actions.rst:73
+msgid "Cоздание поручения из карточки документа - открывается форма поручения:"
+msgstr "Creating an assignment from a document card - the assignment form opens:"
+
+#: ../../introduction/functions/actions.rst:79
+msgid ""
+"При создании поручения из карточки документа автоматически проставляется "
+"двухсторонняя связь."
+msgstr ""
+"When creating an assignment from a document card, a two-way link is automatically established."
+
+#: ../../introduction/functions/actions.rst:81
+msgid ""
+"См. подробно :ref:`Создание поручения из карточки<ecos-assignments-"
+"action>`"
+msgstr ""
+"See details: :ref:`Creating an assignment from a card<ecos-assignments-action>`"
+
+#: ../../introduction/functions/barcode.rst:2
+msgid "Формирование PDF-файла со штрихкодом"
+msgstr "Generating a PDF File with a Barcode"
+
+#: ../../introduction/functions/barcode.rst:6
+msgid ""
+"Функционал реализован с использованием микросервиса :ref:`ecos-"
+"transformations<transformation>` и PDFStamp."
+msgstr ""
+"The functionality is implemented using the :ref:`ecos-transformations<transformation>` microservice and PDFStamp."
+
+#: ../../introduction/functions/barcode.rst:8
+msgid "Citeck формирует PDF-файл со штрихкодом:"
+msgstr "Citeck generates a PDF file with a barcode:"
+
+#: ../../introduction/functions/barcode.rst:10
+msgid ""
+"Конвертация в PDF происходит из **doc** и **docx** файлов в контенте "
+"карточки."
+msgstr ""
+"Conversion to PDF occurs from **doc** and **docx** files in the card's content."
+
+#: ../../introduction/functions/barcode.rst:11
+msgid ""
+"Контент заполняется либо путем вложения пользователем документа, либо "
+"генерируется из хранимого в системе :ref:`шаблона "
+"(FreeMarkerTemplate)<doc_template>`."
+msgstr ""
+"Content is filled either by the user attaching a document or generated from a :ref:`template (FreeMarkerTemplate)<doc_template>` stored in the system."
+
+#: ../../introduction/functions/barcode.rst:12
+msgid ""
+"После генерации pdf-файл прикрепляется в виджет документов карточки, либо"
+" в контент дочерней сущности."
+msgstr ""
+"After generation, the pdf file is attached to the card's documents widget or to the content of a child entity."
+
+#: ../../introduction/functions/barcode.rst:13
+msgid "Штрихкод размещается внизу документа:"
+msgstr "The barcode is placed at the bottom of the document:"
+
+#: ../../introduction/functions/barcode.rst:19
+msgid "Конфигурация действия:"
+msgstr "Action configuration:"
+
+#: ../../introduction/functions/barcode.rst:53
+msgid ""
+"Для скачивания документа с размещенным штрихкодом используйте в карточке "
+"документа действие **Скачать PDF (со штрихкодом)**:"
+msgstr ""
+"To download a document with a placed barcode, use the **Download PDF (with barcode)** action in the document card:"
+
+#: ../../introduction/functions/client_360.rst:2
+msgid "Клиент 360"
+msgstr "Client 360"
+
+#: ../../introduction/functions/client_360.rst:6
+msgid ""
+"В Citeck реализуется стратегия **Клиент 360** – в карточке контрагента "
+"отображаются консолидированные данные из модулей платформы, такие как "
+"история взаимодействия по сделкам и договорам, технической поддержке. Это"
+" позволяет пользователям быстро получать полную картину взаимодействия с "
+"клиентом."
+msgstr ""
+"Citeck implements the **Client 360** strategy – the counterparty card displays consolidated data from platform modules, such as interaction history on deals and contracts, technical support. This allows users to quickly get a complete picture of interaction with the client."
+
+#: ../../introduction/functions/client_360.rst:8
+msgid "В карточке доступны следующие вкладки:"
+msgstr "The following tabs are available in the card:"
+
+#: ../../introduction/functions/client_360.rst:10
+msgid "**Основное** – представлены реквизиты и информация о контактных лицах:"
+msgstr "**Main** – details and information about contact persons are presented:"
+
+#: ../../introduction/functions/client_360.rst:16
+msgid ""
+"**История** – информация о событиях в карточке таких как создание, "
+"обновление:"
+msgstr "**History** – information about events in the card such as creation, update:"
+
+#: ../../introduction/functions/client_360.rst:22
+msgid ""
+"**Документы** –документы по контрагенту. Можно добавить новые, скачать "
+"загруженные ранее:"
+msgstr "**Documents** – documents related to the counterparty. New ones can be added, previously uploaded ones can be downloaded:"
+
+#: ../../introduction/functions/client_360.rst:28
+msgid ""
+"**CRM** - информация из CRM о сделках, заказах и платежах. Для каждого "
+"элемента доступны действия:"
+msgstr "**CRM** - information from CRM about deals, orders, and payments. Actions are available for each item:"
+
+#: ../../introduction/functions/client_360.rst:34
+msgid ""
+"**Договоры** - информация о договорах, доп. соглашениях с контрагентом. "
+"Для каждого элемента доступны действия:"
+msgstr "**Contracts** - information about contracts, addendums with the counterparty. Actions are available for each item:"
+
+#: ../../introduction/functions/client_360.rst:40
+msgid "**Поддержка клиента** – обращения контрагента в техническую поддержку:"
+msgstr "**Customer Support** – counterparty requests to technical support:"
+
+#: ../../introduction/functions/client_360.rst:46
+msgid ""
+"**Корреспонденция** - информация о входящей, исходящей корреспонденции "
+"контрагента:"
+msgstr "**Correspondence** - information about incoming and outgoing correspondence of the counterparty:"
+
+#: ../../introduction/functions/client_360.rst:52
+msgid "**Проекты** - информация о релизах для данного клиента:"
+msgstr "**Projects** - information about releases for this client:"
+
+#: ../../introduction/functions/data_import.rst:2
+msgid "Импорт данных"
+msgstr "Data Import"
+
+#: ../../introduction/functions/data_import.rst:6
+msgid ""
+"Добавлена возможность импорта в систему файлов (Excel) по шаблону. В "
+"результате обработки данных в системе создаются карточки выбранного типа."
+msgstr ""
+"The ability to import files (Excel) using a template has been added. As a result of data processing, cards of the selected type are created in the system."
+
+#: ../../introduction/functions/data_import.rst:8
+msgid "Конфигураций импорта для одного журнала может быть несколько."
+msgstr "There can be several import configurations for one journal."
+
+#: ../../introduction/functions/data_import.rst:10
+msgid "Ниже рассмотрим конфигурацию по умолчанию."
+msgstr "Below we consider the default configuration."
+
+#: ../../introduction/functions/data_import.rst:12
+msgid ""
+"В журнале нажмите кнопку **Импорт (1)**, на ней доступны варианты выбора "
+"**(2)**:"
+msgstr ""
+"In the journal, click the **Import (1)** button, which has available selection options **(2)**:"
+
+#: ../../introduction/functions/data_import.rst:18
+msgid ""
+"Нажмите **(3)** для скачивания шаблона Excel. Шаблон содержит все поля, "
+"заданные в журнале."
+msgstr ""
+"Click **(3)** to download the Excel template. The template contains all fields defined in the journal."
+
+#: ../../introduction/functions/data_import.rst:24
+msgid "Заполните поля файла, сохраните:"
+msgstr "Fill in the file fields, save:"
+
+#: ../../introduction/functions/data_import.rst:30
+msgid "Загрузите заполненный файл в систему:"
+msgstr "Upload the filled file to the system:"
+
+#: ../../introduction/functions/data_import.rst:36
+msgid "В нижней части журнала будет показан прогресс обработки данных:"
+msgstr "The progress of data processing will be shown at the bottom of the journal:"
+
+#: ../../introduction/functions/data_import.rst:42
+msgid ""
+"Если при загрузке данных произойдет ошибка, то будет выдано "
+"предупреждение."
+msgstr "If an error occurs during data loading, a warning will be issued."
+
+#: ../../introduction/functions/data_import.rst:44
+msgid ""
+"После окончания обработки файла система выдаст сообщение о завершении "
+"процесса и статус (Успех/Ошибка):"
+msgstr ""
+"After the file processing is completed, the system will issue a message about the completion of the process and the status (Success/Error):"
+
+#: ../../introduction/functions/data_import.rst:62
+msgid ""
+"Загруженные данные в журнале - созданные карточки, которые можно открыть,"
+" внести изменения при необходимости и запустить бизнес-процесс:"
+msgstr ""
+"The loaded data in the journal - created cards that can be opened, modified if necessary, and the business process can be started:"
+
+#: ../../introduction/functions/data_import.rst:68
+msgid ""
+"Для создания своей конфигурации см. :ref:`Глобальный импорт "
+"данных<data_import>`"
+msgstr ""
+"To create your own configuration, see :ref:`Global Data Import<data_import>`"
+
+#: ../../introduction/functions/delegation.rst:2
+msgid "Делегирование"
+msgstr "Delegation"
+
+#: ../../introduction/functions/delegation.rst:8
+#: ../../introduction/functions/esign.rst:8
+msgid "Доступно только в enterprise версии."
+msgstr "Available only in the Enterprise version."
+
+#: ../../introduction/functions/delegation.rst:13
+msgid ""
+"**Делегирование** — передача своих задач или функций другим сотрудникам. "
+"Пользователь любой роли может активировать функцию отсутствия в офисе и "
+"включить делегирование."
+msgstr ""
+"**Delegation** is the transfer of one's tasks or functions to other employees. A user of any role can activate the out-of-office function and enable delegation."
+
+#: ../../introduction/functions/delegation.rst:15
+msgid ""
+"Для делегирования своих полномочия, необходимо назначить "
+"пользователей-делегатов, которым будут переданы полномочия по всем ролям "
+"пользователя-доверителя. Делегируются как свои задачи, так и задачи, где "
+"пользователя-доверитель находится составе группы."
+msgstr ""
+"To delegate one's authority, it is necessary to assign user-delegates who will be granted authority for all roles of the user-principal. Both one's own tasks and tasks where the user-principal is part of a group are delegated."
+
+#: ../../introduction/functions/delegation.rst:17
+msgid ""
+"Пользователей-делегатов может быть один или несколько, при этом у каждого"
+" из них появляется доступ ко всем задачам доверителя."
+msgstr ""
+"There can be one or several user-delegates, and each of them gains access to all tasks of the principal."
+
+#: ../../introduction/functions/delegation.rst:21
+msgid ""
+"Администратор и Технолог через оргструктуру также имеет возможность "
+"назначить заместителя пользователю. См. :ref:`ниже<delegation_admin>`"
+msgstr ""
+"The Administrator and Technologist can also assign a deputy to a user through the org structure. See :ref:`below<delegation_admin>`"
+
+#: ../../introduction/functions/delegation.rst:24
+msgid "Настройка делегирования"
+msgstr "Delegation Settings"
+
+#: ../../introduction/functions/delegation.rst:28
+msgid "Перейти в **Мой профиль**"
+msgstr "Go to **My Profile**"
+
+#: ../../introduction/functions/delegation.rst:34
+msgid "на вкладку **Делегирование** и нажать:"
+msgstr "to the **Delegation** tab and click:"
+
+#: ../../introduction/functions/delegation.rst:40
+msgid "В карточке выбрать:"
+msgstr "In the card, select:"
+
+#: ../../introduction/functions/delegation.rst:46
+msgid ""
+"**Делегируемые права (1)** – **Свои** (по умолчанию) и **Группы**, в "
+"которых состоит пользователь из выпадающего списка,"
+msgstr ""
+"**Delegated Rights (1)** – **Own** (default) and **Groups** in which the user is a member from the dropdown list,"
+
+#: ../../introduction/functions/delegation.rst:52
+msgid "**Делегаты (2)** - заместителей может быть выбрано несколько:"
+msgstr "**Delegates (2)** - several deputies can be selected:"
+
+#: ../../introduction/functions/delegation.rst:58
+msgid "**Когда (4)** (доступно в 2 режимах):"
+msgstr "**When (4)** (available in 2 modes):"
+
+#: ../../introduction/functions/delegation.rst:60
+msgid ""
+"**«Я вне офиса»** - заместитель будет иметь доступ к выполнению задач "
+"доверителя только на период отсутствия последнего в офисе  (то есть пока "
+"у доверителя статус в профиле **«Отсутствую»**);"
+msgstr ""
+"**«I am out of office»** - the deputy will have access to perform the principal's tasks only during the period of the principal's absence from the office (i.e., while the principal's status in the profile is **«Absent»**);"
+
+#: ../../introduction/functions/delegation.rst:61
+msgid "**«Всегда»** - вне зависимости от присутствия доверителя в офисе."
+msgstr "**«Always»** - regardless of the principal's presence in the office."
+
+#: ../../introduction/functions/delegation.rst:67
+msgid "И нажать **Сохранить**"
+msgstr "And click **Save**"
+
+#: ../../introduction/functions/delegation.rst:69
+msgid ""
+"Делегирование можно настроить на определенные **Типы данных (3)** (типы "
+"документов), если доверитель хочет предоставить заместителям выполнение "
+"задач только, например, на Договоры, а на Доверенности нет;"
+msgstr ""
+"Delegation can be configured for specific **Data Types (3)** (document types), if the principal wants to allow deputies to perform tasks only for, for example, Contracts, but not for Powers of Attorney;"
+
+#: ../../introduction/functions/delegation.rst:71
+msgid ""
+"При необходимости настроенного заместителя можно «отключить», не удаляя "
+"запись из журнала заместителей, выключив чекбокс **«Активно» (5)**."
+msgstr ""
+"If necessary, a configured deputy can be \"disabled\" without deleting the record from the deputies journal by unchecking the **«Active» (5)** checkbox."
+
+#: ../../introduction/functions/delegation.rst:75
+msgid ""
+"Администратор через открытие профиля пользователя в Оргструктуре так же "
+"может настроить делегирование."
+msgstr ""
+"The Administrator can also configure delegation by opening the user's profile in the Org Structure."
+
+#: ../../introduction/functions/delegation.rst:77
+msgid ""
+"Активных записей о делегировании может быть несколько. Они суммируются в "
+"зависимости от условий."
+msgstr ""
+"There can be several active delegation records. They are summed depending on the conditions."
+
+#: ../../introduction/functions/delegation.rst:85
+msgid ""
+"Если задача попадает под условия хотя бы одного делегирования, то она "
+"делегируется. Например, есть задачи А, Б, В, Г."
+msgstr ""
+"If a task meets the conditions of at least one delegation, it is delegated. For example, there are tasks A, B, C, D."
+
+#: ../../introduction/functions/delegation.rst:87
+msgid ""
+"А и Б попадают под условия первого делегирования, Б и В под условия "
+"второго делегирования - в результате делегируются задачи  А, Б и В."
+msgstr ""
+"A and B meet the conditions of the first delegation, B and C meet the conditions of the second delegation - as a result, tasks A, B, and C are delegated."
+
+#: ../../introduction/functions/delegation.rst:90
+msgid "Включение делегирования пользователем"
+msgstr "Enabling Delegation by User"
+
+#: ../../introduction/functions/delegation.rst:92
+msgid "Выбрать **Сменить статус**:"
+msgstr "Select **Change Status**:"
+
+#: ../../introduction/functions/delegation.rst:98
+msgid ""
+"Если была выбрана настройка делегирования **«Я вне офиса»**, то "
+"появляется всплывающее окно, в котором необходимо выставить чекбокс "
+"**«Делегировать выполнение задач»**, нажать **Подтвердить**:"
+msgstr ""
+"If the **«I am out of office»** delegation setting was selected, a pop-up window appears where you need to check the **«Delegate task execution»** checkbox and click **Confirm**:"
+
+#: ../../introduction/functions/delegation.rst:106
+msgid ""
+"Если у пользователя замещение настроено как **«Всегда»** или заместителей"
+" у пользователя нет, то смена статуса осуществляется без промежуточного "
+"окна."
+msgstr ""
+"If the user's substitution is set to **«Always»** or the user has no deputies, the status change is done without an intermediate window."
+
+#: ../../introduction/functions/delegation.rst:108
+msgid ""
+"Если при смене статуса пользователь не активизировал опцию "
+"**«Делегировать выполнение задач»**, делегирование НЕ производится."
+msgstr ""
+"If the user did not activate the **«Delegate task execution»** option when changing status, delegation is NOT performed."
+
+#: ../../introduction/functions/delegation.rst:110
+msgid "Статус пользователя будет изменен на **«Отсутствую»**,"
+msgstr "The user's status will be changed to **«Absent»**,"
+
+#: ../../introduction/functions/delegation.rst:112
+msgid "Иконки статусов:"
+msgstr "Status icons:"
+
+#: ../../introduction/functions/delegation.rst:125
+msgid "На месте"
+msgstr "Present"
+
+#: ../../introduction/functions/delegation.rst:132
+msgid "Отсутствую"
+msgstr "Absent"
+
+#: ../../introduction/functions/delegation.rst:135
+msgid "Включение делегирования администратором, технологом"
+msgstr "Enabling Delegation by Administrator, Technologist"
+
+#: ../../introduction/functions/delegation.rst:139
+msgid ""
+"В оргструктуре перейти в профиль пользователя во вкладку "
+"**Делегирование**."
+msgstr "In the org structure, go to the user's profile in the **Delegation** tab."
+
+#: ../../introduction/functions/delegation.rst:145
+msgid ""
+"Далее порядок действий аналогичен и описан в :ref:`Настройках "
+"делегирования<delegation_settings>`."
+msgstr "Further steps are similar and described in :ref:`Delegation Settings<delegation_settings>`."
+
+#: ../../introduction/functions/delegation.rst:148
+msgid "Описание механизма делегирования"
+msgstr "Description of the Delegation Mechanism"
+
+#: ../../introduction/functions/delegation.rst:151
+msgid "Всегда"
+msgstr "Always"
+
+#: ../../introduction/functions/delegation.rst:153
+msgid ""
+"При наличии у пользователя заместителей и условия **«Всегда»** "
+"делегирование задач на заместителей осуществляется сразу по факту "
+"сохранения формы настройки заместителей."
+msgstr ""
+"If the user has deputies and the condition is **«Always»**, delegation of tasks to deputies is carried out immediately upon saving the deputies configuration form."
+
+#: ../../introduction/functions/delegation.rst:155
+msgid ""
+"У заместителей в журнале **«Текущие задачи»** появятся задачи доверителя "
+"и будут доступными для исполнения. Заместителю в соответствующем журнале "
+"доступен документ, по которому на него делегирована задача."
+msgstr ""
+"Deputies will see the principal's tasks in the **«Current Tasks»** journal and will be able to execute them. The deputy has access to the document for which the task was delegated to them in the corresponding journal."
+
+#: ../../introduction/functions/delegation.rst:157
+#: ../../introduction/functions/delegation.rst:170
+msgid ""
+"При этом исполнителем в этих задачах будет по-прежнему указан сам "
+"доверитель, у самого доверителя из журнала **«Текущие задачи»** задачи не"
+" будут удалены, сам доверитель по-прежнему будет иметь доступ к своим "
+"задачам через журнал активных задач и журналы модулей системы."
+msgstr ""
+"However, the executor in these tasks will still be the principal themselves; the principal's tasks will not be removed from the **«Current Tasks»** journal, and the principal will still have access to their tasks through the active tasks journal and system module journals."
+
+#: ../../introduction/functions/delegation.rst:164
+msgid "Я вне офиса"
+msgstr "I am out of office"
+
+#: ../../introduction/functions/delegation.rst:166
+msgid ""
+"При наличии у пользователя заместителей и условия **«Я вне офиса»** "
+"делегирование задач на заместителей осуществляется только по факту смены "
+"статуса профиля доверителя на **«Отсутствую»**."
+msgstr ""
+"If the user has deputies and the condition is **«I am out of office»**, delegation of tasks to deputies is carried out only upon changing the principal's profile status to **«Absent»**."
+
+#: ../../introduction/functions/delegation.rst:168
+msgid ""
+"У заместителей в журнале **«Текущие задачи»** появятся задачи доверителя "
+"и возможность выполнения задач через журналы модулей системы. Заместителю"
+" в соответствующем журнале доступен документ, по которому на него "
+"делегирована задача."
+msgstr ""
+"Deputies will see the principal's tasks in the **«Current Tasks»** journal and will be able to perform tasks through system module journals. The deputy has access to the document for which the task was delegated to them in the corresponding journal."
+
+#: ../../introduction/functions/delegation.rst:172
+msgid ""
+"После смены статуса профиля доверителя на **«На месте»** у заместителей "
+"исчезают задачи доверителя из журнала **«Текущие задачи»** и возможность "
+"выполнения задач через журналы модулей системы."
+msgstr ""
+"After changing the principal's profile status to **«Present»**, the principal's tasks disappear from the deputies' **«Current Tasks»** journal, and the ability to perform tasks through system module journals is lost."
+
+#: ../../introduction/functions/delegation.rst:174
+msgid ""
+"Если заместитель выполнит задачу, то в **Истории событий** указывается, "
+"что действие выполнено заместителем от имени доверителя (заполнено поле "
+"**«От имени»**)."
+msgstr ""
+"If a deputy completes a task, the **Event History** indicates that the action was performed by the deputy on behalf of the principal (the **«On behalf of»** field is filled in)."
+
+#: ../../introduction/functions/delegation.rst:180
+msgid ""
+"При направлении заместителем какой-либо задачи на доработку (или "
+"аннулирование), в случае выполнения Инициатором доработки (или "
+"неподтверждения аннулирования), задача будет возвращена на доверителя, "
+"при этом заместитель будет иметь право доска к задаче."
+msgstr ""
+"If a deputy sends any task for revision (or cancellation), and the Initiator performs the revision (or does not confirm the cancellation), the task will be returned to the principal, and the deputy will retain access rights to the task."
+
+#: ../../introduction/functions/doc_templates.rst:2
+msgid "Шаблоны документов"
+msgstr "Document Templates"
+
+#: ../../introduction/functions/doc_templates.rst:8
+msgid "Доступно только в Enterprise версии."
+msgstr "Available only in the Enterprise version."
+
+#: ../../introduction/functions/doc_templates.rst:13
+msgid ""
+"Настройка расположена в журнале **\"Шаблоны документов\" (Раздел "
+"администратора - Трансформации)** ``v2/admin?journalId=document-"
+"templates&type=JOURNAL``"
+msgstr ""
+"The setting is located in the **\"Document Templates\" journal (Administrator section - Transformations)** ``v2/admin?journalId=document-templates&type=JOURNAL``"
+
+#: ../../introduction/functions/doc_templates.rst:25
+msgid "Необходимо заполнить следующие поля:"
+msgstr "The following fields must be filled in:"
+
+#: ../../introduction/functions/doc_templates.rst:32
+msgid "Поле"
+msgstr "Field"
+
+#: ../../introduction/functions/doc_templates.rst:33
+msgid "Описание"
+msgstr "Description"
+
+#: ../../introduction/functions/doc_templates.rst:34
+msgid "**ID**"
+msgstr "**ID**"
+
+#: ../../introduction/functions/doc_templates.rst:35
+msgid "Уникальный идентификатор шаблона в системе"
+msgstr "Unique template identifier in the system"
+
+#: ../../introduction/functions/doc_templates.rst:36
+msgid "**Имя**"
+msgstr "**Name**"
+
+#: ../../introduction/functions/doc_templates.rst:37
+msgid "Имя шаблона"
+msgstr "Template name"
+
+#: ../../introduction/functions/doc_templates.rst:38
+msgid "**Движок**"
+msgstr "**Engine**"
+
+#: ../../introduction/functions/doc_templates.rst
+msgid ""
+"Наименования движка, который будет обрабатывать заполнение шаблона - "
+"**Freemarker**"
+msgstr "Name of the engine that will process template filling - **Freemarker**"
+
+#: ../../introduction/functions/doc_templates.rst:40
+msgid "**Шаблоны**"
+msgstr "**Templates**"
+
+#: ../../introduction/functions/doc_templates.rst
+msgid "Загрузите файл шаблона."
+msgstr "Upload the template file."
+
+#: ../../introduction/functions/doc_templates.rst
+msgid ""
+"Шаблон должен быть добавлен в zip архиве. (Так как именно так шаблоны "
+"хранятся в базе)"
+msgstr "The template must be added in a zip archive. (Because this is how templates are stored in the database)"
+
+#: ../../introduction/functions/doc_templates.rst
+msgid ""
+"В архиве должен быть файл с шаблоном в формате docx или ftl. Строгих "
+"правил к его наименованию нет, но желательно придерживаться общей "
+"концепции и называть файл как id шаблона."
+msgstr "The archive must contain a template file in docx or ftl format. There are no strict naming rules, but it is advisable to follow the general concept and name the file as the template id."
+
+#: ../../introduction/functions/doc_templates.rst
+msgid ""
+"Если шаблонов несколько (разделены по локализации), то при названии "
+"файлов в конце нужно приписывать суффиксы _ru, _en и т.п."
+msgstr "If there are several templates (separated by localization), then when naming files, suffixes _ru, _en, etc., should be added at the end."
+
+#: ../../introduction/functions/doc_templates.rst:45
+msgid "**Модель**"
+msgstr "**Model**"
+
+#: ../../introduction/functions/doc_templates.rst
+msgid ""
+"Представляет собой мапинг ключ-значение, где в качестве ключа "
+"используется атрибут из шаблона, а в качестве значения атрибут, который "
+"берется из карточки."
+msgstr "Represents a key-value mapping, where the key is an attribute from the template, and the value is an attribute taken from the card."
+
+#: ../../introduction/functions/doc_templates.rst
+msgid "См. ниже"
+msgstr "See below"
+
+#: ../../introduction/functions/doc_templates.rst:48
+msgid "**Вычисляемые атрибуты**"
+msgstr "**Calculated Attributes**"
+
+#: ../../introduction/functions/doc_templates.rst
+msgid "Лист объектов с информацией о вычисляемых атрибутах."
+msgstr "A list of objects with information about calculated attributes."
+
+#: ../../introduction/functions/doc_templates.rst
+msgid "Подробнее тут :ref:`Вычисляемые атрибуты для шаблонов<calculated_attr>`"
+msgstr "More details here: :ref:`Calculated attributes for templates<calculated_attr>`"
+
+#: ../../introduction/functions/doc_templates.rst:51
+msgid "**Теги**"
+msgstr "**Tags**"
+
+#: ../../introduction/functions/doc_templates.rst
+msgid "Список вспомогательных меток для удобного поиска"
+msgstr "A list of auxiliary tags for convenient search"
+
+#: ../../introduction/functions/doc_templates.rst:56
+msgid "Заполнение модели"
+msgstr "Filling the Model"
+
+#: ../../introduction/functions/doc_templates.rst:58
+msgid ""
+"**Ключ** -  атрибут, который используется в шаблоне, **значение** -  "
+"атрибут, который берется из заполняемой карточки."
+msgstr "**Key** - an attribute used in the template, **Value** - an attribute taken from the card being filled."
+
+#: ../../introduction/functions/doc_templates.rst:60
+msgid ""
+"Указываются как атрибуты из самого типа данных, так и атрибуты, которые "
+"являются ассоциацией. Например:"
+msgstr "Both attributes from the data type itself and attributes that are associations are specified. For example:"
+
+#: ../../introduction/functions/doc_templates.rst:62
+msgid ""
+"В типе данных **Договор** есть атрибут **Контрагент (counterparty)**. И, "
+"например, чтобы получить ИНН контрагента, необходимо указать "
+"**counterparty.inn**."
+msgstr "In the **Contract** data type, there is an attribute **Counterparty (counterparty)**. And, for example, to get the counterparty's TIN, you need to specify **counterparty.inn**."
+
+#: ../../introduction/functions/doc_templates.rst:64
+msgid ""
+"В типе данных **Договор** есть атрибут **Юридическое лицо "
+"(legalEntity)**. И, например, чтобы получить полное наименование "
+"юридического лица, необходимо указать "
+"**legalEntity.fullOrganizationName**."
+msgstr "In the **Contract** data type, there is an attribute **Legal Entity (legalEntity)**. And, for example, to get the full name of the legal entity, you need to specify **legalEntity.fullOrganizationName**."
+
+#: ../../introduction/functions/doc_templates.rst:66
+msgid "Пример заполненной модели:"
+msgstr "Example of a filled model:"
+
+#: ../../introduction/functions/doc_templates.rst:74
+msgid "Заполнение шаблона документа"
+msgstr "Filling the Document Template"
+
+#: ../../introduction/functions/doc_templates.rst:76
+msgid ""
+"Используется `freemarker "
+"<https://freemarker.apache.org/docs/dgui_template.html>`_."
+msgstr "Uses `freemarker <https://freemarker.apache.org/docs/dgui_template.html>`_."
+
+#: ../../introduction/functions/doc_templates.rst:78
+msgid "Синтаксис его следующий:"
+msgstr "Its syntax is as follows:"
+
+#: ../../introduction/functions/doc_templates.rst:80
+#, python-brace-format
+msgid ""
+"**${…}** в шаблоне будет заменено в сгенерированном выводе фактическим "
+"значением выражения внутри фигурных скобок."
+msgstr "**${…}** in the template will be replaced in the generated output with the actual value of the expression inside the curly braces."
+
+#: ../../introduction/functions/doc_templates.rst:81
+msgid ""
+"теги FTL похожи на теги HTML (но содержат # или @ ), и FreeMarker "
+"интерпретирует их."
+msgstr "FTL tags are similar to HTML tags (but contain # or @), and FreeMarker interprets them."
+
+#: ../../introduction/functions/doc_templates.rst:82
+msgid "комментарии в FreeMarker начинаются с **<#– и заканчиваются -->**"
+msgstr "comments in FreeMarker start with **<#– and end with -->**"
+
+#: ../../introduction/functions/doc_templates.rst:83
+msgid ""
+"кавычки вида ``«пример»`` не распознаются. Необходимо ставить кавычки "
+"следующего вида ``\"пример\"``."
+msgstr "Quotes like ``«example»`` are not recognized. Quotes of the following type must be used: ``\"example\"``."
+
+#: ../../introduction/functions/doc_templates.rst:85
+msgid "Например:"
+msgstr "For example:"
+
+#: ../../introduction/functions/doc_templates.rst:87
+msgid "вывод переменной:"
+msgstr "output a variable:"
+
+#: ../../introduction/functions/doc_templates.rst:89
+#, python-brace-format
+msgid "``${contract}``"
+msgstr "``${contract}``"
+
+#: ../../introduction/functions/doc_templates.rst:91
+msgid ""
+"вывод переменных с проверкой на null - если возвращаемое значение «пусто»"
+" (null) - выводится то, что указано между ``\" \"``.  В данном случае "
+"пустое поле, которое можно заполнить вручную позднее:"
+msgstr "output variables with null check - if the returned value is \"empty\" (null) - what is specified between ``\" \"`` is output. In this case, an empty field that can be filled in manually later:"
+
+#: ../../introduction/functions/doc_templates.rst:93
+msgid "``${counterpartyInn!\"\"}``"
+msgstr "``${counterpartyInn!\"\"}``"
+
+#: ../../introduction/functions/doc_templates.rst:95
+msgid ""
+"конструкция «если, то .., иначе» - если Вид контрагента - ИП, то "
+"выводится ОГРНИП, если ЮЛ - то ОГРН:"
+msgstr "\"if, then .., else\" construct - if the Counterparty Type is Sole Proprietor (IP), then OGRNIP is output; if Legal Entity (UL), then OGRN:"
+
+#: ../../introduction/functions/doc_templates.rst:97
+msgid ""
+"``[#if counterpartyKind == \"individualEntrepreneur\"]ОГРНИП: "
+"${psrnsp}[#else] ОГРН: ${counterpartyOgrn!\"\"}[/#if]``"
+msgstr "``[#if counterpartyKind == \"individualEntrepreneur\"]OGRNIP: ${psrnsp}[#else] OGRN: ${counterpartyOgrn!\"\"}[/#if]``"
+
+#: ../../introduction/functions/doc_templates.rst:99
+msgid "системный атрибут дата в формате дд.мм.гггг:"
+msgstr "system attribute date in dd.MM.yyyy format:"
+
+#: ../../introduction/functions/doc_templates.rst:101
+msgid "``date | fmt(\"dd.MM.yyyy\")``"
+msgstr "``date | fmt(\"dd.MM.yyyy\")``"
+
+#: ../../introduction/functions/doc_templates.rst:103
+msgid "заголовок документа :ref:`системный атрибут<system_attributes>` :"
+msgstr "document title :ref:`system attribute<system_attributes>` :"
+
+#: ../../introduction/functions/doc_templates.rst:105
+msgid "``.disp``"
+msgstr "``.disp``"
+
+#: ../../introduction/functions/doc_templates.rst:124
+msgid ""
+"Добавьте шаблон в zip архив и прикрепите его в карточку шаблона "
+"документа. См. выше."
+msgstr "Add the template to a zip archive and attach it to the document template card. See above."
+
+#: ../../introduction/functions/doc_templates.rst:127
+msgid "Настройка генерации контента из шаблона"
+msgstr "Setting up Content Generation from a Template"
+
+#: ../../introduction/functions/doc_templates.rst:129
+msgid "Для автоматической генерации контента из шаблона в типе данных необходимо:"
+msgstr "To automatically generate content from a template in a data type, you need to:"
+
+#: ../../introduction/functions/doc_templates.rst:131
+msgid ""
+"В тип данных добавить :ref:`аспект <aspects_user>` **Шаблонизируемый "
+"контент**"
+msgstr "Add the :ref:`aspect <aspects_user>` **Templated Content** to the data type"
+
+#: ../../introduction/functions/doc_templates.rst:137
+msgid "В конфигурации аспекта выбрать шаблон:"
+msgstr "Select a template in the aspect configuration:"
+
+#: ../../introduction/functions/doc_templates.rst:143
+msgid "Далее на форме необходимо добавить элемент **чекбокс**:"
+msgstr "Next, add a **checkbox** element to the form:"
+
+#: ../../introduction/functions/doc_templates.rst:149
+msgid "В **Имя свойства** укажмте **templated-content:autoGenerate**."
+msgstr "In **Property Name**, specify **templated-content:autoGenerate**."
+
+#: ../../introduction/functions/doc_templates.rst:151
+msgid ""
+"При заполнении полей карточки при выставленном чекбоксе по данным формы "
+"будет заполняться шаблон."
+msgstr "When filling in the card fields with the checkbox checked, the template will be filled based on the form data."
+
+#: ../../introduction/functions/doc_templates.rst:154
+msgid "Действие сгенерировать и скачать документ"
+msgstr "Action to generate and download a document"
+
+#: ../../introduction/functions/doc_templates.rst:156
+msgid "Далее настройте :ref:`действие<download_by_template>`"
+msgstr "Next, configure the :ref:`action<download_by_template>`"
+
+#: ../../introduction/functions/doc_templates.rst:160
+msgid "См. больше :ref:`о миросервисе трансформации<transformation>`"
+msgstr "See more :ref:`about the transformation microservice<transformation>`"
+
+#: ../../introduction/functions/doc_templates.rst:163
+msgid "Пример использования"
+msgstr "Usage Example"
+
+#: ../../introduction/functions/doc_templates.rst:165
+msgid ""
+"В модуле :ref:`Договоры<ecos-contract>` при выставленном чекбоксе "
+"**«Сгенерировать из шаблона»**:"
+msgstr "In the :ref:`Contracts<ecos-contract>` module with the **«Generate from template»** checkbox checked:"
+
+#: ../../introduction/functions/doc_templates.rst:171
+msgid "файл-вложение будет сгенерирован по шаблону на основании введенных данных:"
+msgstr "the attached file will be generated from the template based on the entered data:"
+
+#: ../../introduction/functions/doc_templates.rst:177
+msgid "Так же файл будет доступен для предпросмотра:"
+msgstr "The file will also be available for preview:"
+
+#: ../../introduction/functions/esign.rst:2
+msgid "Подписание с использованием ЭЦП"
+msgstr "Signing using Digital Signature"
+
+#: ../../introduction/functions/esign.rst:12
+msgid ""
+"Необходима установка плагина `КриптоПро ЭЦП Browser plug-in "
+"<https://www.cryptopro.ru/products/cades/plugin>`_"
+msgstr "Installation of the `CryptoPro Digital Signature Browser plug-in <https://www.cryptopro.ru/products/cades/plugin>`_ is required"
+
+#: ../../introduction/functions/esign.rst:14
+msgid ""
+"Браузеры, которым не требуется дополнительная настройка расширения "
+"браузера после установки плагина:"
+msgstr "Browsers that do not require additional browser extension configuration after plugin installation:"
+
+#: ../../introduction/functions/esign.rst:16
+msgid "`Chromium-Gost <https://www.cryptopro.ru/products/chromium-gost>`_"
+msgstr "`Chromium-Gost <https://www.cryptopro.ru/products/chromium-gost>`_"
+
+#: ../../introduction/functions/esign.rst:17
+msgid "`Яндекс.Браузер <https://browser.yandex.ru/>`_"
+msgstr "`Yandex.Browser <https://browser.yandex.ru/>`_"
+
+#: ../../introduction/functions/esign.rst:20
+msgid "ОРД, Исходящие документы"
+msgstr "ORD, Outgoing Documents"
+
+#: ../../introduction/functions/esign.rst:22
+msgid "Если в документе выставлен чекбокс **«Электронное подписание»:**"
+msgstr "If the **«Electronic Signing»** checkbox is checked in the document:"
+
+#: ../../introduction/functions/esign.rst:28
+msgid ""
+"то на статусе **«На подписании»** документ будет подписан "
+"электронно-цифровой подписью."
+msgstr "then at the **«Signing»** status, the document will be signed with a digital signature."
+
+#: ../../introduction/functions/esign.rst:30
+msgid ""
+"В модуле ОРД функция проверки скана пописанного документа становится не "
+"доступна."
+msgstr "In the ORD module, the function of checking the scan of the signed document becomes unavailable."
+
+#: ../../introduction/functions/esign.rst:36
+msgid "В виджете **«Мои задачи»** нажмите **«Подписать»**."
+msgstr "In the **«My Tasks»** widget, click **«Sign»**."
+
+#: ../../introduction/functions/esign.rst:44
+msgid ""
+"Если у вас не установлено расширение **«КриптоПро ЭЦП Browser plug-in»**,"
+" то будет выдано следующее сообщение:"
+msgstr "If the **«CryptoPro Digital Signature Browser plug-in»** extension is not installed, the following message will be displayed:"
+
+#: ../../introduction/functions/esign.rst:50
+msgid ""
+"Перейдите на страницу для скачивания и дальнейшей установки расширения "
+"для Вашего браузера."
+msgstr "Go to the page to download and further install the extension for your browser."
+
+#: ../../introduction/functions/esign.rst:53
+msgid "Разрешите действие:"
+msgstr "Allow the action:"
+
+#: ../../introduction/functions/esign.rst:59
+msgid ""
+"Если у вас несколько сертификатов, то выберите необходимый сертификат из "
+"списка и нажмите **«Подписать»**:"
+msgstr "If you have several certificates, select the required certificate from the list and click **«Sign»**:"
+
+#: ../../introduction/functions/esign.rst:65
+msgid "Если сертификат один, то документ подписывается сертификатом по умолчанию."
+msgstr "If there is only one certificate, the document is signed with the default certificate."
+
+#: ../../introduction/functions/esign.rst:67
+msgid "Статус документа изменится на следующий в соответствии с бизнес-процессом:"
+msgstr "The document status will change to the next one according to the business process:"
+
+#: ../../introduction/functions/esign.rst:69
+msgid "для ОРД – **«Действует»**;"
+msgstr "for ORD – **«Active»**;"
+
+#: ../../introduction/functions/esign.rst:70
+msgid "для Исходящих – **«Отправка»**;"
+msgstr "for Outgoing – **«Sending»**;"
+
+#: ../../introduction/functions/esign.rst:72
+msgid ""
+"Информация о сертификате и времени подписания становится доступна в "
+"виджете **«Электронная подпись»**:"
+msgstr "Information about the certificate and signing time becomes available in the **«Digital Signature»** widget:"
+
+#: ../../introduction/functions/onlyoffice_edit.rst:2
+msgid "Редактирование документа в Onlyoffice"
+msgstr "Editing a Document in OnlyOffice"
+
+#: ../../introduction/functions/onlyoffice_edit.rst:6
+msgid ""
+"Для редактирования файлов документов в Onlyoffice используйте действие "
+"**«Редактировать документ»**:"
+msgstr "To edit document files in OnlyOffice, use the **«Edit Document»** action:"
+
+#: ../../introduction/functions/onlyoffice_edit.rst:12
+msgid "Редактор **Onlyoffice** совместим с форматами MS Office и OpenDocument."
+msgstr "The **OnlyOffice** editor is compatible with MS Office and OpenDocument formats."
+
+#: ../../introduction/functions/onlyoffice_edit.rst:14
+msgid "В отдельной вкладке браузера в Onlyoffice откроется документ:"
+msgstr "The document will open in OnlyOffice in a separate browser tab:"
+
+#: ../../introduction/functions/onlyoffice_edit.rst:20
+msgid "Внесите в документ изменения:"
+msgstr "Make changes to the document:"
+
+#: ../../introduction/functions/onlyoffice_edit.rst:26
+msgid ""
+"Система сохраняет внесенные изменения автоматически в новую версию "
+"документа. Изменения версий фиксируются в :ref:`виджете «Журнал "
+"версий»<widget_versions_journal>`"
+msgstr "The system automatically saves the changes made into a new document version. Version changes are recorded in the :ref:`«Version Journal» widget<widget_versions_journal>`"
+
+#: ../../introduction/functions/onlyoffice_edit.rst:32
+msgid ""
+"Версии документов можно сравнить. Выберите версии и нажмите **Сравнить**."
+" Различия будут подсвечены:"
+msgstr "Document versions can be compared. Select versions and click **Compare**. Differences will be highlighted:"
+
+#: ../../introduction/functions/version_comparison.rst:2
+msgid "Сравнение версий"
+msgstr "Version Comparison"
+
+#: ../../introduction/functions/version_comparison.rst:4
+msgid ""
+"Изменения версий документа фиксируются в :ref:`виджете «Журнал "
+"версий»<widget_versions_journal>`."
+msgstr "Document version changes are recorded in the :ref:`«Version Journal» widget<widget_versions_journal>`."
+
+#: ../../introduction/functions/version_comparison.rst:6
+msgid ""
+"Виджет содержит актуальную и предшествующие версии документа. Служит для "
+"**загрузки новой версии** документа **(1)**, а также для сравнения "
+"файлов."
+msgstr "The widget contains the current and previous versions of the document. It is used to **upload a new version** of the document **(1)**, as well as to compare files."
+
+#: ../../introduction/functions/version_comparison.rst:12
+msgid ""
+"Для сравнения версий документов выберите версии и нажмите **Сравнить** "
+"**(2)**. Различия будут подсвечены:"
+msgstr "To compare document versions, select versions and click **Compare** **(2)**. Differences will be highlighted:"
+
+#: ../../introduction/functions/work_calendar.rst:2
+msgid "Рабочее расписание и производственный календарь"
+msgstr "Work Schedule and Production Calendar"
+
+#: ../../introduction/functions/work_calendar.rst:6
+msgid ""
+"Функциональность для учета нерабочих, праздничных дней календаря, которые"
+" позволяют более гибко настраивать рабочий график сотрудников в различных"
+" модулях системы."
+msgstr "Functionality for accounting non-working, holiday calendar days, which allows more flexible configuration of employee work schedules in various system modules."
+
+#: ../../introduction/functions/work_calendar.rst:12
+msgid "Производственный календарь"
+msgstr "Production Calendar"
+
+#: ../../introduction/functions/work_calendar.rst:14
+msgid ""
+"Функциональность для формирования списка дат, которые изменяют обычный "
+"распорядок рабочих дней:"
+msgstr "Functionality for generating a list of dates that change the usual routine of working days:"
+
+#: ../../introduction/functions/work_calendar.rst:17
+msgid ""
+"Настройка расположена в журнале **\"Производственный календарь\" (Раздел "
+"администратора - Модель)** ``v2/admin?journalId=working-"
+"calendar&type=JOURNAL``"
+msgstr "The setting is located in the **\"Production Calendar\" journal (Administrator section - Model)** ``v2/admin?journalId=working-calendar&type=JOURNAL``"
+
+#: ../../introduction/functions/work_calendar.rst:29
+msgid ""
+"Выбрать **календарь**, который расширяем своей конфигурацией, указать "
+"**даты действия** календаря, выставить **Включен** ли календарь и указать"
+" **список дней** календаря."
+msgstr "Select the **calendar** that is extended with your configuration, specify the calendar's **effective dates**, set whether the calendar is **Enabled**, and specify the calendar's **list of days**."
+
+#: ../../introduction/functions/work_calendar.rst:31
+msgid "Пример конфигурации календаря с условием:"
+msgstr "Example of a calendar configuration with a condition:"
+
+#: ../../introduction/functions/work_calendar.rst:83
+msgid "где:"
+msgstr "where:"
+
+#: ../../introduction/functions/work_calendar.rst:88
+msgid "**date**"
+msgstr "**date**"
+
+#: ../../introduction/functions/work_calendar.rst:89
+msgid "Конкретная дата или дата начала диапазона, если задано значение до"
+msgstr "Specific date or start date of the range if 'until' value is specified"
+
+#: ../../introduction/functions/work_calendar.rst:90
+msgid "**until**"
+msgstr "**until**"
+
+#: ../../introduction/functions/work_calendar.rst:91
+msgid "Дата окончания диапазона (включительно)"
+msgstr "End date of the range (inclusive)"
+
+#: ../../introduction/functions/work_calendar.rst:92
+msgid "**type**"
+msgstr "**type**"
+
+#: ../../introduction/functions/work_calendar.rst
+msgid "Тип даты или всех дат в диапазоне"
+msgstr "Type of the date or all dates in the range"
+
+#: ../../introduction/functions/work_calendar.rst
+msgid "Допустимые типы:"
+msgstr "Allowed types:"
+
+#: ../../introduction/functions/work_calendar.rst:96
+msgid ""
+"WORKING - рабочий день. Имеет смысл указывать, когда выходной день "
+"становится рабочим"
+msgstr "WORKING - working day. Makes sense to specify when a day off becomes a working day"
+
+#: ../../introduction/functions/work_calendar.rst:97
+msgid "HOLIDAY - праздник"
+msgstr "HOLIDAY - holiday"
+
+#: ../../introduction/functions/work_calendar.rst:98
+msgid "SHORTDAY - сокращенный на 1ч рабочий день"
+msgstr "SHORTDAY - shortened by 1 hour working day"
+
+#: ../../introduction/functions/work_calendar.rst:99
+msgid "WEEKEND - выходной"
+msgstr "WEEKEND - day off"
+
+#: ../../introduction/functions/work_calendar.rst:100
+msgid "NON_WORKING - не рабочий день"
+msgstr "NON_WORKING - non-working day"
+
+#: ../../introduction/functions/work_calendar.rst:102
+msgid "**description**"
+msgstr "**description**"
+
+#: ../../introduction/functions/work_calendar.rst:103
+msgid "Описание дня или диапазона"
+msgstr "Description of the day or range"
+
+#: ../../introduction/functions/work_calendar.rst:107
+msgid "Рабочее расписание"
+msgstr "Work Schedule"
+
+#: ../../introduction/functions/work_calendar.rst:109
+msgid "Определяет обычный распорядок рабочих дней."
+msgstr "Defines the usual routine of working days."
+
+#: ../../introduction/functions/work_calendar.rst:111
+msgid ""
+"Настройка расположена в журнале **\"Рабочее расписание\" (Раздел "
+"администратора - Модель)**  ``v2/admin?journalId=type$working-"
+"schedule&type=JOURNAL``"
+msgstr "The setting is located in the **\"Work Schedule\" journal (Administrator section - Model)**  ``v2/admin?journalId=type$working-schedule&type=JOURNAL``"
+
+#: ../../introduction/functions/work_calendar.rst:124
+msgid ""
+"Указать **Имя**, **Тип расписания** (на данный момент поддерживается "
+"только weekly), **Начало и заверешение рабочего дня**, **Часовой пояс** "
+"(при необходимости), **Рабочие дни**, **Производственный календар**."
+msgstr "Specify **Name**, **Schedule Type** (only weekly is currently supported), **Start and end of working day**, **Time zone** (if necessary), **Working days**, **Production calendar**."
+
+#: ../../introduction/functions/work_calendar.rst:127
+msgid "Пример заполнения конфигурации"
+msgstr "Example of filling out the configuration"
+
+#: ../../introduction/functions/work_calendar.rst:129
+msgid ""
+"Пример конфигурации рабочего расписания с всеми рабочими днями и "
+"календарем по умолчанию:"
+msgstr "Example of a work schedule configuration with all working days and the default calendar:"
+
+#: ../../introduction/functions/work_calendar.rst:145
+msgid "Пример конфигурации рабочего расписания с часовым поясом:"
+msgstr "Example of a work schedule configuration with a time zone:"
+
+#: ../../introduction/functions/work_calendar.rst:163
+msgid "Где:"
+msgstr "Where:"
+
+#: ../../introduction/functions/work_calendar.rst:168
+msgid "**workingDays**"
+msgstr "**workingDays**"
+
+#: ../../introduction/functions/work_calendar.rst:169
+msgid "Список рабочих дней"
+msgstr "List of working days"
+
+#: ../../introduction/functions/work_calendar.rst:170
+msgid "**workingDayEnd**"
+msgstr "**workingDayEnd**"
+
+#: ../../introduction/functions/work_calendar.rst:171
+msgid "Завершение рабочего дня"
+msgstr "End of working day"
+
+#: ../../introduction/functions/work_calendar.rst:172
+msgid "**workingCalendar**"
+msgstr "**workingCalendar**"
+
+#: ../../introduction/functions/work_calendar.rst:173
+msgid "Ссылка на производственный календарь"
+msgstr "Link to the production calendar"
+
+#: ../../introduction/functions/work_calendar.rst:174
+msgid "**workingDayStart**"
+msgstr "**workingDayStart**"
+
+#: ../../introduction/functions/work_calendar.rst:175
+msgid "Начало рабочего дня"
+msgstr "Start of working day"
+
+#: ../../introduction/functions/work_calendar.rst:176
+msgid "**workingDayTimeZone**"
+msgstr "**workingDayTimeZone**"
+
+#: ../../introduction/functions/work_calendar.rst:177
+msgid "Часовой пояс рабочего дня"
+msgstr "Working day time zone"
+
+#: ../../introduction/functions/work_calendar.rst:179
+msgid ""
+"Например, используется для расчета SLA в :ref:`модуле «Service Desk"
+"»<ecos-service-desk>`"
+msgstr "For example, used for SLA calculation in the :ref:`«Service Desk» module<ecos-service-desk>`"
+
+#: ../../introduction/functions/work_calendar.rst:181
+msgid "См. больше о :ref:`настройках<working-schedule>`"
+msgstr "See more about :ref:`settings<working-schedule>`"
+
+#: ../../introduction/functions/work_calendar.rst:184
+msgid "Добавление расписания пользователю"
+msgstr "Adding a schedule to a user"
+
+#: ../../introduction/functions/work_calendar.rst:186
+msgid ""
+"Рабочий календарь можно добавить пользователю :ref:`в "
+"профиле<user_profile>`:"
+msgstr "A work calendar can be added to a user :ref:`in the profile<user_profile>`:"
+
+#: ../../introduction/functions/wysiwyg_editor.rst:2
+msgid "WYSIWYG-редактор"
+msgstr "WYSIWYG Editor"
+
+#: ../../introduction/functions/wysiwyg_editor.rst:6
+msgid ""
+"**WYSIWYG-редактор** (произносится как «ви-зи-виг») — инструмент для "
+"создания и редактирования контента (текста, изображений, таблиц) в режиме"
+" реального времени, где результат отображается так, как он будет "
+"выглядеть после публикации."
+msgstr ""
+"**WYSIWYG Editor** (pronounced \"wiz-ee-wig\") is a tool for creating and editing content (text, images, tables) in real time, where the result is displayed as it will look after publication."
+
+#: ../../introduction/functions/wysiwyg_editor.rst:8
+msgid ""
+"Визуальный редактор в Citeck основан на современном гибком и "
+"высокопроизводительном фреймворке `Lexical <https://lexical.dev>`_."
+msgstr "The visual editor in Citeck is based on the modern, flexible, and high-performance `Lexical <https://lexical.dev>`_ framework."
+
+#: ../../introduction/functions/wysiwyg_editor.rst:10
+msgid ""
+"Над областью редактирования расположена панель инструментов "
+"WYSIWYG-редактора, при помощи которого можно оформлять текст, вставлять "
+"таблицы, изображения, математические формулы"
+msgstr "Above the editing area is the WYSIWYG editor toolbar, which can be used to format text, insert tables, images, mathematical formulas"
+
+#: ../../introduction/functions/wysiwyg_editor.rst:16
+msgid "Рассмотрим ее функционал подробнее:"
+msgstr "Let's consider its functionality in more detail:"
+
+#: ../../introduction/functions/wysiwyg_editor.rst
+msgid "Выбрать уровень заголовков, вида списка и т.д."
+msgstr "Select heading level, list type, etc."
+
+#: ../../introduction/functions/wysiwyg_editor.rst
+msgid ""
+"Изменить размера шрифта, применить стиль текста - жирный, курсив, "
+"подчеркнутый, добавить блок кода, ссылку"
+msgstr "Change font size, apply text style - bold, italic, underlined, add code block, link"
+
+#: ../../introduction/functions/wysiwyg_editor.rst
+msgid "Изменить цвет текста, цвет фона"
+msgstr "Change text color, background color"
+
+#: ../../introduction/functions/wysiwyg_editor.rst
+msgid "Изменить выравнивание и отступ"
+msgstr "Change alignment and indentation"
+
+#: ../../introduction/functions/wysiwyg_editor.rst
+msgid "Вставить объект."
+msgstr "Insert object."
+
+#: ../../introduction/functions/wysiwyg_editor.rst
+msgid "Изображение можно вставить как из файла, так и из ссылки."
+msgstr "Image can be inserted from a file or from a link."
+
+#: ../../introduction/functions/wysiwyg_editor.rst
+msgid "Загрузить файл"
+msgstr "Upload file"
+
+#: ../../introduction/functions/wysiwyg_editor.rst
+msgid "Файл будет отображаться в виде ссылки:"
+msgstr "The file will be displayed as a link:"
+
+#: ../../introduction/functions/wysiwyg_editor.rst
+msgid "По клику доступен его просмотр:"
+msgstr "It can be viewed by clicking:"
+
+#: ../../introduction/functions/wysiwyg_editor.rst
+msgid "Упомянуть пользователя"
+msgstr "Mention user"
+
+#: ../../introduction/functions/wysiwyg_editor.rst:111
+msgid "Пример работы с редактором:"
+msgstr "Example of working with the editor:"
+
+#: ../../introduction/functions/wysiwyg_editor.rst:118
+msgid "Быстрое редактирование выделенного текста"
+msgstr "Quick editing of selected text"
+
+#: ../../introduction/functions/wysiwyg_editor.rst:124
+msgid "**1** - перемещение строки или выделенной области"
+msgstr "**1** - moving a line or selected area"
+
+#: ../../introduction/functions/wysiwyg_editor.rst:125
+msgid "**2** - форматирование выделенного текста"
+msgstr "**2** - formatting selected text"
+
+#: ../../introduction/functions/wysiwyg_editor.rst:128
+msgid "Добавление и редактирование таблицы"
+msgstr "Adding and editing a table"
+
+#: ../../introduction/functions/wysiwyg_editor.rst:130
+msgid ""
+"Выберите в меню **Вставка - Таблица**, выберите количество строк и "
+"столбцов:"
+msgstr "Select **Insert - Table** from the menu, choose the number of rows and columns:"
+
+#: ../../introduction/functions/wysiwyg_editor.rst:136
+msgid ""
+"Для таблицы доступно изменение ширины и высоты ячеек, как в обычных "
+"редакторах, добавление столбцов и строк **(1)**, действия с таблицей "
+"доступны по нажатию на **(2)**:"
+msgstr "For the table, changing the width and height of cells is available, as in regular editors, adding columns and rows **(1)**, actions with the table are available by clicking on **(2)**:"
