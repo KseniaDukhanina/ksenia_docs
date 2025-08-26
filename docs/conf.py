@@ -56,7 +56,7 @@ templates_path = ['_templates']
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
 language = 'ru'
-locale_dirs = ['locales/']   # Путь к папке с переводами
+locale_dirs = ['docs/locales/']   # Путь к папке с переводами 
 gettext_compact = False     # Важно для структуры с множеством языков
 # gettext_uuid = True       # Может понадобиться для новых версий Sphinx
 
