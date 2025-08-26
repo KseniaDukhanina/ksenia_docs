@@ -19,12 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../Введение.rst:2
-msgid "Знакомство с Citeck"
-msgstr "Introduction to Citeck"
+#: ../../introduction/functions.rst:2
+msgid "Описание отдельных функциональностей"
+msgstr "Description of specific functionalities"
 
-#: ../../Введение.rst:6
-msgid ""
-"В разделе описан интерфейс Citeck и работа с поставляемыми модулями "
-"системы."
-msgstr "This section describes the Citeck interface and working with the system's supplied modules."

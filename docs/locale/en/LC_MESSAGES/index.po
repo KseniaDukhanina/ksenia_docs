@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Citeck \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-26 17:40+0300\n"
+"POT-Creation-Date: 2025-08-22 12:00+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../index.rst:-1
 msgid "text/html; charset=utf-8"
-msgstr ""
+msgstr "text/html; charset=utf-8"
 
 #: ../../index.rst:9
 msgid "*Последняя правка:* |today|"
@@ -33,7 +33,7 @@ msgstr "Citeck Documentation"
 
 #: ../../index.rst:15
 msgid "С использованием **Citeck** могут быть реализованы:"
-msgstr "**Citeck** can be used to implement:"
+msgstr "With **Citeck**, the following can be implemented:"
 
 #: ../../index.rst:17
 msgid "управление бизнес-процессами, используя встроенный конструктор BPMN;"
@@ -92,7 +92,7 @@ msgid ""
 "базовый функционал для управления корпоративным контентом (ECM) и "
 "бизнес-процессами (BPM)."
 msgstr ""
-"The **Citeck Community** version is an open source solution distributed under the `LGPL <https://www.gnu.org/licenses/lgpl-3.0.en.html>`_ license, which contains basic functionality for Enterprise Content Management (ECM) and Business Process Management (BPM)."
+"The **Citeck Community** version is an open source solution distributed under the `LGPL <https://www.gnu.org/licenses/lgpl-3.0.ru.html>`_ license, which contains basic functionality for enterprise content management (ECM) and business process management (BPM)."
 
 #: ../../index.rst:31
 msgid "В статьях представлена информация по установке Citeck Community:"
@@ -122,7 +122,7 @@ msgid ""
 "В разделе :ref:`\"Знакомство с Citeck\"<intro>` описан интерфейс и "
 "порядок работы с готовыми модулями системы."
 msgstr ""
-"The :ref:`\"Getting Started with Citeck\"<intro>` section describes the interface and procedures for working with the system's ready-made modules."
+"The :ref:`\"Introduction to Citeck\"<intro>` section describes the interface and procedures for working with the system's pre-built modules."
 
 #: ../../index.rst:39
 msgid ""
@@ -144,11 +144,12 @@ msgid ""
 "HR-отдела :ref:`по согласованию офферов для "
 "кандидатов-соискателей<sample_offer>`"
 msgstr ""
-"a more complex and comprehensive example for automating a typical HR department process :ref:`for approving offers for job candidates<sample_offer>`"
+"a more complex and comprehensive example for automating a typical HR department process :ref:`for approving job offers for candidates<sample_offer>`"
 
 #: ../../index.rst:44
 msgid ""
 "Далее представлены разделы базы знаний, в статьях которой подробнее "
 "описана работа со сложными и неочевидными настройками, возможностями "
 "изменения и персонализации системы."
-msgstr "The following are the sections of the knowledge base, whose articles describe in more detail working with complex and non-obvious settings, capabilities for changing and personalizing the system."
+msgstr ""
+"Following are the knowledge base sections, whose articles describe in more detail working with complex and non-obvious settings, system modification, and personalization capabilities."
