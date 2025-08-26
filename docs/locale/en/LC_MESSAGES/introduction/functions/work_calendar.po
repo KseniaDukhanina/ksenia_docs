@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Citeck \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-22 12:00+0300\n"
+"POT-Creation-Date: 2025-08-27 01:44+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -34,8 +34,8 @@ msgstr ""
 "various system modules."
 
 #: ../../introduction/functions/work_calendar.rst:9
-msgid "Contents"
-msgstr "Contents"
+msgid "Содержание"
+msgstr ""
 
 #: ../../introduction/functions/work_calendar.rst:12
 msgid "Производственный календарь"
@@ -66,8 +66,8 @@ msgid ""
 " **список дней** календаря."
 msgstr ""
 "Select the **calendar** being extended with your configuration, specify "
-"the calendar's **validity dates**, set whether the calendar is **Enabled**, "
-"and specify the calendar's **list of days**."
+"the calendar's **validity dates**, set whether the calendar is "
+"**Enabled**, and specify the calendar's **list of days**."
 
 #: ../../introduction/functions/work_calendar.rst:31
 msgid "Пример конфигурации календаря с условием:"
@@ -161,8 +161,8 @@ msgid ""
 "только weekly), **Начало и заверешение рабочего дня**, **Часовой пояс** "
 "(при необходимости), **Рабочие дни**, **Производственный календарь**."
 msgstr ""
-"Specify **Name**, **Schedule type** (currently only weekly is supported), "
-"**Start and end of the working day**, **Time zone** (if necessary), "
+"Specify **Name**, **Schedule type** (currently only weekly is supported),"
+" **Start and end of the working day**, **Time zone** (if necessary), "
 "**Working days**, **Production calendar**."
 
 #: ../../introduction/functions/work_calendar.rst:127
@@ -230,8 +230,8 @@ msgid ""
 "Например, используется для расчета SLA в :ref:`модуле «Service Desk"
 "»<ecos-service-desk>`"
 msgstr ""
-"For example, used for SLA calculation in the :ref:`Service Desk "
-"module<ecos-service-desk>`"
+"For example, used for SLA calculation in the :ref:`Service Desk module"
+"<ecos-service-desk>`"
 
 #: ../../introduction/functions/work_calendar.rst:181
 msgid "См. больше о :ref:`настройках<working-schedule>`"
@@ -246,4 +246,9 @@ msgid ""
 "Рабочий календарь можно добавить пользователю :ref:`в "
 "профиле<user_profile>`:"
 msgstr ""
-"A work calendar can be added to a user :ref:`in the profile<user_profile>`:"
+"A work calendar can be added to a user :ref:`in the "
+"profile<user_profile>`:"
+
+#~ msgid "Contents"
+#~ msgstr "Contents"
+
